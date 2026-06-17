@@ -29,7 +29,7 @@
 
 ## 💡 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/namankhurana15008?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/namankhurana1508?theme=dark&font=Karma)
 
 ---
 

@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Naman Khurana 👋
 
-<!--
-**naman15007/naman15007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Morning) @ MSIT (2028)
 
-Here are some ideas to get you started:
+🏆 AIR 15 in B.Tech Lateral Entry Examination
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Diploma in Computer Science Engineering from Delhi Skill and Entrepreneurship University (DSEU)
+
+💻 Passionate about Java, Data Structures & Algorithms, and Software Development
+
+---
+
+## 🚀 Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naman15007&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naman15007&layout=compact)
+
+---
+
+## 💡 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/namankhurana15008?theme=dark&font=Karma)
+
+---
+
+## 🔥 Coding Profiles
+
+- GitHub: https://github.com/naman15007
+- LeetCode: https://leetcode.com/u/namankhurana15008/
+
+---
+
+## 🎯 Goals for 2026
+
+- Solve 300+ DSA problems
+- Master Java for Placements
+- Build Strong Development Projects
+- Contribute to Open Source
+
+⭐ Always learning and improving every day.
